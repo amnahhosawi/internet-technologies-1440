@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<header>
+  <style>
+  table, th, td {
+  border: 1px solid black;
+}
+</style>
+  <div style="background-color:pink;color:black;padding:20px;">
+  <h1 style="font-family:courier;text-align:center";>wibsite name</h1>
+    <nav>
+  <a href="/home link/">home</a> |
+  <a href="/policy link/">policy</a> |
+  <a href="/purpose link/">purpose</a> 
+          <p style="text-align:right";>search</p>
+</nav> 
+</header>
+<body>
+    <article>
+      <section>
+        <h3 style="color:red";>wibsite policy:</h3>
+        <p>1-the validity of borrowing must not exceed 30 days</p>
+         <p>2-no recovery for purchased books</p>
+        <p>3-to sale book it must be in good case and valid to use</p>
+        </section>
+      </article>
+   </body>
+<footer>
+  <table style="width:100%">
+  <tr>
+    <th>Contact us: <a href="mailto:someone@example.com">
+  someone@example.com</a>.</th>
+    </tr>
+</footer> 
+  

@@ -1,0 +1,43 @@
+<!DOCTYPE HTML > 
+<html>
+<head>
+<title> The WebSite name </title>
+<h1> The WebSite Name </h1>
+<nav>
+<a href="/Home/">Home</a> |
+<a href="/Policy/">Policy</a> |
+<a href="/Purpose/">Purpose</a> |
+</nav>
+</head>
+<hr></hr>
+<body>
+<br/>
+<article>
+<pre <h1 style="text-align:left;">
+<img src = "books.jpeg" 
+alt = "Books Icon"
+style="float:right;width:300px;hight:300px;"> 
+
+We here have collections of Books waiting to be discoverd !
+Share And Read and Enjoy ! 
+
+<blockquote>
+	"Thats the things about books.
+	 They let you travel without moving your feet "
+		"Jhumpa Lahiri"
+</blockqoute>
+
+
+
+</pre></h1>
+</article>
+
+<br/>
+<br/>
+<hr></hr>
+<nav>
+<a href="/Contact Us/">Contact Us</a> |
+</nav
+
+</body>
+</html>

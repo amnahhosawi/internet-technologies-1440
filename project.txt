@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  font-family: Verdana, sans-serif;
+  font-size: 0.8em;
+}
+
+  footer {
+  border: 1px solid grey;
+  margin: 5px;
+  padding: 8px;
+}
+
+ nav{
+  margin: 0;
+  padding: 0;
+}
+
+nav  {
+  display: inline;
+  margin: 5px;
+}
+</style>
+<style>
+myHero {
+  display: block;
+  background-color: pink;
+  padding: 50px;
+  font-size: 30px;
+}  
+</style>
+</head>
+<body>
+
+<header>
+<myHero>the website name</myHero>
+</header>
+<nav>
+  <a href="/home/">Home</a> |
+  <a href="/purpose/">purpose</a> |
+  <a href="/policy/">policy</a> |
+  
+</nav>
+
+<article>
+  
+  <p>the purpose of this  incredible website that is will allow you  to buy a book or sell one ,moreover you could donate a book to an anomalous person  </p>
+<p><strong>Note:</strong> You could leave a nice  massage in the donate book for next reader  .</p>
+</article>
+
+
+<table>
+  <tr>
+    <th>purpose</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>buy</td>
+    <td>cheack the exist book and if you find some thing you like chack the price to buy it. </td>
+  </tr>
+  <tr>
+    <td>sell</td>
+    <td>take a photo for your book,then write a note about it and finaly decied the price to sell it.</td>
+  </tr>
+<tr>
+    <td>donation  </td>
+    <td>take a photo for your book with a note . </td>
+  </tr>
+</table>
+<footer>
+  
+  <p>Contact information: <a href="mailto:someone@example.com">someone@example.com</a>.</p>
+</footer>
+</body>
+</html>
