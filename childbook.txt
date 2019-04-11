@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+<div class="gallery">
+  <a target="_blank" href="https://static1.squarespace.com/static/50769910e4b07864e5d07147/t/5a2754c39140b7da0f39cc6b/1512527099913/">
+    <img src="https://static1.squarespace.com/static/50769910e4b07864e5d07147/t/5a2754c39140b7da0f39cc6b/1512527099913/" alt="Cinque Terre" width="600" height="400">
+  </a>
+  <div class="desc">Little Bear is a worrier. He worries about everything! But with Mama Bear’s help, he soon learns his worries are not so big after all.</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="https://images-na.ssl-images-amazon.com/images/I/51wNmrKP6%2BL._SX379_BO1,204,203,200_.jpg">
+    <img src="https://images-na.ssl-images-amazon.com/images/I/51wNmrKP6%2BL._SX379_BO1,204,203,200_.jpg" alt="Forest" width="600" height="400">
+  </a>
+  <div class="desc"> The Children's Book of Virtues is an enduring treasury of literature and art that will help lead young minds toward what is noble and gentle and fine.</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank"http://jenmaschari.com/wp-content/uploads/2016/10/Book-Cover-Things-That-Surprise-You-final-330x499.jpg">
+    <img src="http://jenmaschari.com/wp-content/uploads/2016/10/Book-Cover-Things-That-Surprise-You-final-330x499.jpg" alt="Northern Lights" width="600" height="400">
+  </a>
+  <div class="desc">THINGS THAT SURPRISE YOU is a bighearted, poignant novel about the often shifting bonds of family and friendship</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="http://jenmaschari.com/wp-content/uploads/2015/12/Book-Cover-Final-330x499.jpg">
+    <img src="http://jenmaschari.com/wp-content/uploads/2015/12/Book-Cover-Final-330x499.jpg" alt="Mountains" width="600" height="400">
+  </a>
+  <div class="desc">  book about sadness and grief that will help support kids and foster conversation </div>
+</div>
+
+</body>
+</html>
